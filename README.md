@@ -10,7 +10,7 @@
 <!-- 这是一张图片，ocr 内容为： -->
 ![](https://cdn.nlark.com/yuque/0/2026/png/25738070/1781677877608-38d8fd87-fb2e-4fb4-b9a0-177beaf2aed0.png)
 
-`<font style="color:#DF2A3F;">『关闭梯子</font><font style="color:#DF2A3F;">🪜</font><font style="color:#DF2A3F;">签发国</font><font style="color:#DF2A3F;">🉑</font><font style="color:#DF2A3F;">选“中国”</font><font style="color:#DF2A3F;">🇨🇳</font><font style="color:#DF2A3F;">』</font>`
+`『关闭梯子🪜签发国🉑选“中国”🇨🇳』`
 
 注册链接：
 
